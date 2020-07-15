@@ -1,4 +1,4 @@
-A Boolean value is either true or false.
+1.A Boolean value is either true or false.
 In Python, the two Boolean values are True and False (the capitalization must be exactly as shown), and the Python type is bool
 A Boolean expression is an expression that evaluates to produce a result which is a Boolean value. For example
 >>> 5 == (3 + 2)  # Is five equal 5 to the result of 3 + 2?
@@ -8,3 +8,39 @@ False
 >>> j = "hel"
 >>> j + "lo" == "hello"
 True
+2. To design an algorithm you can draw a flowchart or write pseudo-code
+Your algorithm (flowchart or pseudo-code) can then be converted by a programmer using the programming language of their choice (e.g Python)
+Each shape has a specific use:
+oval: start / end
+parallelogram: input / output
+ectangle: calculations
+diamond: selection structures
+
+if name == "Anh Quan":
+    print("Hand some")
+elif name == "Minh Duc":
+    even_more_handsome = True
+else:
+
+webbrowser.open("https://www.youtube.com/watch?v=04854XqcfCY")
+
+3. There may be a situation when you want to check for another condition after a condition resolves to true. In such a situation, you can use the nested if construct.
+
+In a nested if construct, you can have an if...elif...else construct inside another if...elif...else construct.
+
+Example
+var = 100
+if var < 200:
+   print "Expression value is less than 200"
+   if var == 150:
+      print "Which is 150"
+   elif var == 100:
+      print "Which is 100"
+   elif var == 50:
+      print "Which is 50"
+   elif var < 50:
+      print "Expression value is less than 50"
+else:
+   print "Could not find true expression"
+
+print "Good bye!"
