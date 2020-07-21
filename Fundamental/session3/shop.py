@@ -12,21 +12,30 @@ stuffs = ['ao tam','ao mua', 'ao phao','quan boi']
 # for i in range(len(stuffs)):
 #     print(stuffs[i])
 
-# Update
-# index = int(input('vi tri muon sua: '))
-# new_item = input('ten item moi: ')
-# stuffs.append(new_item)
-# stuffs[3] = 'quan lanh'
+stuff1 = 'áo tắm'
+stuff2 = 'áo mưa'
+stuff3 = 'áo phao'
 
-# Create
-# new_item = input('enter new item: ')
-# stuffs.append(new_item)
-# print(len(stuffs))
-# Read all 2
 
-# Delete
-#stuffs.pop(0) # Delete by index
-stuffs.remove('ao tam') # Delete by value
+stuffs = ['áo tắm', 'áo mưa', 'áo phao', 'quần bơi', 'quần què'] #  list, array
+# print(stuffs) # Read
+print(len(stuffs))
 
+# print(stuffs[0]) # Read one
+# ao_mua = stuffs[1]
+
+# Read All
+# for i in range(len(stuffs)):
+#   print(stuffs[i])
+# index = int(input('vị trí muốn sửa'))
+# new_item = input('tên item mới')
+# stuffs[index] = new_item # Update
+# stuffs.pop(0) # Delete by index
+# stuffs.remove('áo phao') # Delete by value
+# new_item = input('enter new item')
+# stuffs.append(new_item) # Create
+print(len(stuffs))
+
+# Read All 2
 for item in stuffs:
-    print(item)    
+  print(item)
