@@ -1,4 +1,5 @@
 from pymongo import MongoClient
+<<<<<<< HEAD
 client = MongoClient()
 db = client.get_database('mongo_ex')
 mongo_practice = db.get_collection('movies')
@@ -79,4 +80,14 @@ comment_collection = db.get_collection('comments')
 # x = mongo_practice.find({'sypnosys': {'$regex' : '.*Biblo.*'}})
 # for movie in x:
 #   print(movie)
+=======
+mongo_connection = MongoClient()
+new_database = mongo_connection.get_database('mongo_ex')
+movie_collection = new_database.get_collection('movies')
+comment_collection = new_database.get_collection('comments')
+post_collection = new_database.get_collection('posts')
+user_collection = new_database.get_collection('users')
+# get all documents
+print(movie_collection)
+>>>>>>> 9608ad4ae1b9c103c16476461be2551c2f7f57c4
 
