@@ -1,0 +1,25 @@
+﻿name,shortName,stageShortName
+L0A - Sai số điện thoại,L0A,L0
+L0B - Hủy do trùng lead,L0B,L0
+L1A - Chưa xử lý,L1A,L1
+"L1B - Bận, gọi lại sau",L1B,L1
+L1C - Chưa nghe máy,L1C,L1
+L2A - Không có nhu cầu,L2A,L2
+L2B - Sai đối tượng (ngoài khu vực),L2B,L2
+"L2C - Sai đối tượng (độ tuổi, chưa có con...)",L2C,L2
+L2D - L3 hủy,L2D,L2
+L2E - Huỷ lịch trải nghiệm,L2E,L2
+L2F - Fail trải nghiệm / Fail test,L2F,L2
+L2G - L5 hủy,L2G,L2
+L2X - Sai đối tượng (chưa rõ nguyên nhân),L2X,L2
+L3A - Có quan tâm nhưng đang bận,L3A,L3
+"L3B - Đã tư vấn, KH quan tâm ít",L3B,L3
+"L3C - Đã tư vấn, cần gửi email",L3C,L3
+"L3D - Đã tư vấn, KH có quan tâm nhiều",L3D,L3
+L4A - Đồng ý học trải nghiệm / Test,L4A,L4
+L4B - Đã học Trải nghiệm / Tested,L4B,L4
+L4X - Đang chấm test,L4X,L4
+L5A - New order - Chờ thanh toán,L5A,L5
+L5B - Order - Đã thanh toán 1 phần,L5B,L5
+L5C - Order - Đã thanh toán toàn phần,L5C,L5
+L5D - Order - Đã thanh toán toàn phần nhưng không học,L5D,L5

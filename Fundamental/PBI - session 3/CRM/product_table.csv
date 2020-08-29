@@ -1,0 +1,383 @@
+﻿id,isActive,isDeleted,name,productCategory_id,productLine
+5c61b1324579806edb62a6c3,false,true,Cũ-Web Creator Basic,Kids,Web
+5c61b15b4579806edb62a6c4,,true,C4K-WA,,
+5c61b36d4579806edb62a6c7,true,,Code for kids next gen,Kids,Other
+5c6ceb97e7b2fb692322c76f,,,App Creator,,
+5c99eb9c2bb848b06e3a467b,false,true,Cũ-Lộ trình web/app developer (3 khoá),18+,Other
+5c99ebb72bb848b06e3a46f1,,false,Lộ trình mobile app developer(3 khoá),,
+5c99ec1e2bb848b06e3a4872,false,true,Cũ-Lộ trình web/app developer (2 khoá),18+,Other
+5c99ec372bb848b06e3a48cc,false,true,Cũ-Lộ trình web/app developer (2 khoá),18+,Other
+5c9ca18894a505da02c8f940,,true,Lộ trình 6 tháng(2 khóa),,
+5c9cbe2194a505da02c8f958,,true,Lộ trình 12 tháng(4 khóa),,
+5c9da186db73aab778b0efb2,,true,Combo 2 khóa bất kì,,
+5c9da1c7db73aab778b0efb3,,true,Combo 3 khóa bất kì,,
+5c9da1dfdb73aab778b0efb4,,true,Combo 4 khóa bất kì,,
+5c9da1f4db73aab778b0efb5,,true,Combo 6 khóa C4K,,
+5c9da207db73aab778b0efb6,,true,Combo 8 khóa C4K,,
+5c9dfb5947f2e1d8ea7ae8c9,,true,Combo 2 khóa Code For Teen,,
+5c9dfcba47f2e1d8ea7ae8ca,,true,Combo 4 khóa,,
+5cb82d27c3c39675b0d9453b,,,C4K-LTST,,
+5cbe80007e2f164b5e926e42,,true,C4K-GB,,
+5cbe80217e2f164b5e926e43,,true,C4K-GA,,
+5cbe80417e2f164b5e926e44,,true,C4K-GI,,
+5cbe8afe7e2f164b5e926e45,,true,C4K-WI,,
+5cbe8b427e2f164b5e926e46,,,C4K-RB,,
+5cbe8b587e2f164b5e926e47,,,C4K-RA,,
+5cbe8beb7e2f164b5e926e48,,,18+C4EJ,,
+5cbe8ca77e2f164b5e926e49,false,true,Cũ-Code for Everyone Python,18+,C4E
+5cbe8ce87e2f164b5e926e4a,,,C4T-B summer ver,,
+5cbe8cfa7e2f164b5e926e4b,,,C4T-A-summer ver,,
+5cbe8d207e2f164b5e926e4c,,,C4T-A,,
+5cbe8d3e7e2f164b5e926e4d,,,C4T-AI,,
+5cbe96647e2f164b5e926e4e,,,18+CI,,
+5cbe967f7e2f164b5e926e4f,false,true,"Cũ-Fullstack Web (NodeJS, React)",18+,Web
+5cbe96997e2f164b5e926e50,,,18+WFP,,
+5cbe96b07e2f164b5e926e51,,,18+RN,,
+5cbe96fb7e2f164b5e926e52,false,true,obsoleteProduct-5cbe96fb7e2f164b5e926e52,,
+5ccfb7a9b2d49644d389d73b,false,true,Cũ-Lộ trình fresher web (3 khoá),18+,Other
+5ccfb802b2d49644d389d73c,false,true,Cũ-Lộ trình mobile app developer (3 khoá),18+,Other
+5cd3e2b666427414d4e8a111,,,18+CIJava,,
+5cdf78b355575c3aab4882c6,false,true,Cũ-C4T-B,,
+5cfe09e8b87ea65b5fae4634,,,Trại hè cấp 1.2019,,
+5cfe0a10b87ea65b5fae4635,,,Trai hè cấp 2.2019,,
+5cfe0a45b87ea65b5fae4636,,,Trại hè cấp 3.2019,,
+5d05d54627ddd40b08485a09,,true,Combo Special (Kids),,
+5d05d59527ddd40b08485a0a,false,true,Cũ-Special (Kids),Kids,
+5d05d83d27ddd40b08485a0b,,true,Special (Teens),,
+5d07569227ddd40b08487f89,false,true,obsoleteProduct-5d07569227ddd40b08487f89,,
+5d133a522a9d95c190568b14,,true,Special (Kids),,
+5d133a642a9d95c190568b15,,true,Special (Teens),,
+5d22f8024f7f2add483692f9,false,true,obsoleteProduct-5d22f8024f7f2add483692f9,,
+5d25b01bdc1756b75429a2e2,false,true,obsoleteProduct-5d25b01bdc1756b75429a2e2,,
+5d25b723dc1756b75429a3c5,false,true,obsoleteProduct-5d25b723dc1756b75429a3c5,,
+5d26b5c2dc1756b75429c66d,,true,Combo 2 khóa Code For Teen,,
+5d26b5e0dc1756b75429c66e,,true,Combo 4 khóa,,
+5d26b5f1dc1756b75429c66f,,true,Combo 4 khóa bất kì,,
+5d26b60cdc1756b75429c671,,true,Lộ trình 6 tháng(2 khóa),,
+5d26b61edc1756b75429c676,true,false,Combo 2 khóa bất kì,Kids,Other
+5d26b62cdc1756b75429c67c,,true,Combo 3 khóa bất kì,,
+5d296c5b1912cb49d0a7150a,false,true,obsoleteProduct-5d296c5b1912cb49d0a7150a,,
+5d35902cf4bd7d53de6a500e,false,true,obsoleteProduct-5d35902cf4bd7d53de6a500e,,
+5d37d7c3bea818052a93a1ca,false,true,obsoleteProduct-5d37d7c3bea818052a93a1ca,,
+5d3bcc44bea818052a94248d,false,true,obsoleteProduct-5d3bcc44bea818052a94248d,,
+5d48df248e56850877538634,false,true,obsoleteProduct-5d48df248e56850877538634,,
+5d48e62b8e5685087753874d,false,true,obsoleteProduct-5d48e62b8e5685087753874d,,
+5d48f43c8e568508775389e6,false,true,obsoleteProduct-5d48f43c8e568508775389e6,,
+5d4a4cc78e5685087753bbc7,false,true,obsoleteProduct-5d4a4cc78e5685087753bbc7,,
+5d4a76f409f56e5cb72dea94,false,true,obsoleteProduct-5d4a76f409f56e5cb72dea94,,
+5d4d4428459c402cf0c38bf3,false,true,obsoleteProduct-5d4d4428459c402cf0c38bf3,,
+5d4d755c459c402cf0c393d0,false,true,obsoleteProduct-5d4d755c459c402cf0c393d0,,
+5d4fc3fcb4687d4c38e2773a,false,true,obsoleteProduct-5d4fc3fcb4687d4c38e2773a,,
+5d5146b7a63ded3fc5195b58,false,true,obsoleteProduct-5d5146b7a63ded3fc5195b58,,
+5d525ff5a63ded3fc5198b4f,false,true,obsoleteProduct-5d525ff5a63ded3fc5198b4f,,
+5d526700a63ded3fc5198ca5,false,true,obsoleteProduct-5d526700a63ded3fc5198ca5,,
+5d526e05a63ded3fc5198e74,false,true,obsoleteProduct-5d526e05a63ded3fc5198e74,,
+5d52750ca63ded3fc51991fa,false,true,obsoleteProduct-5d52750ca63ded3fc51991fa,,
+5d5a09ac55f2564bd2b123b6,false,true,obsoleteProduct-5d5a09ac55f2564bd2b123b6,,
+5d64f11d2c410d26f28a356c,false,true,obsoleteProduct-5d64f11d2c410d26f28a356c,,
+5d677d46ff93181863bf92f0,,true,12M Kid,,
+5d677d97ff93181863bf92f1,,true,Lộ trình 12 tháng Kids,,
+5d677dbeff93181863bf92f2,,true,Lộ trình 24 tháng Kids,,
+5d677e0aff93181863bf92f3,,true,Lộ trình 12 tháng Teens,,
+5d677e25ff93181863bf92f4,,true,Lộ trình 24 tháng Teens,,
+5d677f4dff93181863bf93f6,,true,1-1 lộ trình 4 tháng,,
+5d677f79ff93181863bf93f7,,false,1-1 lộ trình 12 tháng (Kids và Teens),,
+5d677fe5ff93181863bf93f8,,true,1-1 lộ trình 24 tháng (Kids và Teens),,
+5d67800cff93181863bf93f9,,false,1-1 lộ trình 4 tháng (Kids và Teens),,
+5d6e33979d84852e5ee8485c,,true,Special (Teens),,
+5d6e33a39d84852e5ee8485d,,true,Special (Kids),,
+5d6e5cd17629d1659bed7d20,false,true,obsoleteProduct-5d6e5cd17629d1659bed7d20,,
+5d6e63d97629d1659bed7f2d,false,true,obsoleteProduct-5d6e63d97629d1659bed7f2d,,
+5d6e6ae17629d1659bed813d,false,true,obsoleteProduct-5d6e6ae17629d1659bed813d,,
+5d6f2fbd7629d1659beda9c2,false,true,obsoleteProduct-5d6f2fbd7629d1659beda9c2,,
+5d70c78e78889d435ae2e246,false,true,obsoleteProduct-5d70c78e78889d435ae2e246,,
+5d71bda6577c3e3d9b6055ae,false,true,obsoleteProduct-5d71bda6577c3e3d9b6055ae,,
+5d71c4ae577c3e3d9b6057bd,false,true,obsoleteProduct-5d71c4ae577c3e3d9b6057bd,,
+5d71cbb6577c3e3d9b605a96,false,true,obsoleteProduct-5d71cbb6577c3e3d9b605a96,,
+5d71e0ceffd88902e67214cb,false,true,obsoleteProduct-5d71e0ceffd88902e67214cb,,
+5d721206c217be0622fd82df,false,true,obsoleteProduct-5d721206c217be0622fd82df,,
+5d72190ec217be0622fdacba,false,true,obsoleteProduct-5d72190ec217be0622fdacba,,
+5d722016c217be0622fe0633,false,true,obsoleteProduct-5d722016c217be0622fe0633,,
+5d72271ec217be0622fe2a6d,false,true,obsoleteProduct-5d72271ec217be0622fe2a6d,,
+5d74718dc217be0622ff1eaf,,true,Special (Teens),,
+5d7471afc217be0622ff1eb0,,true,New Special Teens,,
+5d7471bbc217be0622ff1eb1,,true,Special (Kids),,
+5d7471d6c217be0622ff1eb2,,true,New special Kids,,
+5d760686c217be0622ff72e7,false,true,obsoleteProduct-5d760686c217be0622ff72e7,,
+5d7711bac217be0622ffa8d1,false,true,obsoleteProduct-5d7711bac217be0622ffa8d1,,
+5d7718bec217be0622ffac6f,false,true,obsoleteProduct-5d7718bec217be0622ffac6f,,
+5d771fc645a9fc06e230b8a0,false,true,obsoleteProduct-5d771fc645a9fc06e230b8a0,,
+5d7750fe45a9fc06e230c9d6,false,true,obsoleteProduct-5d7750fe45a9fc06e230c9d6,,
+5d77580645a9fc06e230ccd0,false,true,obsoleteProduct-5d77580645a9fc06e230ccd0,,
+5d775f0e45a9fc06e230cfae,false,true,obsoleteProduct-5d775f0e45a9fc06e230cfae,,
+5d77661645a9fc06e230d23c,false,true,obsoleteProduct-5d77661645a9fc06e230d23c,,
+5d776d1f45a9fc06e230d43a,false,true,obsoleteProduct-5d776d1f45a9fc06e230d43a,,
+5d79bbbec7b3656216b68873,false,true,obsoleteProduct-5d79bbbec7b3656216b68873,,
+5d79c2c5c7b3656216b68aab,false,true,obsoleteProduct-5d79c2c5c7b3656216b68aab,,
+5d79fb06c7b3656216b698e3,false,true,obsoleteProduct-5d79fb06c7b3656216b698e3,,
+5d7a020ec7b3656216b69b64,false,true,obsoleteProduct-5d7a020ec7b3656216b69b64,,
+5d7b4c81c7b3656216b6e30a,false,true,obsoleteProduct-5d7b4c81c7b3656216b6e30a,,
+5d7b6199c7b3656216b6ec3c,false,true,obsoleteProduct-5d7b6199c7b3656216b6ec3c,,
+5d7ca509c7b3656216b72890,false,true,obsoleteProduct-5d7ca509c7b3656216b72890,,
+5d7f08c1c7b3656216b7a77a,false,true,obsoleteProduct-5d7f08c1c7b3656216b7a77a,,
+5d7f4101c7b3656216b7b9f8,false,true,obsoleteProduct-5d7f4101c7b3656216b7b9f8,,
+5d805a41c7b3656216b7ff7b,false,true,obsoleteProduct-5d805a41c7b3656216b7ff7b,,
+5d80c3b9c7b3656216b8235e,false,true,obsoleteProduct-5d80c3b9c7b3656216b8235e,,
+5d81dcf9c7b3656216b85d20,false,true,obsoleteProduct-5d81dcf9c7b3656216b85d20,,
+5d81e401c7b3656216b85f6b,false,true,obsoleteProduct-5d81e401c7b3656216b85f6b,,
+5d81eb09c7b3656216b862e5,false,true,obsoleteProduct-5d81eb09c7b3656216b862e5,,
+5d81f211c7b3656216b864e5,false,true,obsoleteProduct-5d81f211c7b3656216b864e5,,
+5d820021c7b3656216b86cfe,false,true,obsoleteProduct-5d820021c7b3656216b86cfe,,
+5d820729c7b3656216b86fff,false,true,obsoleteProduct-5d820729c7b3656216b86fff,,
+5d820e31c7b3656216b872d6,false,true,obsoleteProduct-5d820e31c7b3656216b872d6,,
+5d821539c7b3656216b8758b,false,true,obsoleteProduct-5d821539c7b3656216b8758b,,
+5d821c41c7b3656216b8786c,false,true,obsoleteProduct-5d821c41c7b3656216b8786c,,
+5d830b51c7b3656216b8b55d,false,true,obsoleteProduct-5d830b51c7b3656216b8b55d,,
+5d832771c7b3656216b8bc1b,false,true,obsoleteProduct-5d832771c7b3656216b8bc1b,,
+5d832e79c7b3656216b8be68,false,true,obsoleteProduct-5d832e79c7b3656216b8be68,,
+5d833581c7b3656216b8c23a,false,true,obsoleteProduct-5d833581c7b3656216b8c23a,,
+5d849c194ccbc335b4a6f70d,false,true,obsoleteProduct-5d849c194ccbc335b4a6f70d,,
+5d84a3214ccbc335b4a6f85d,false,true,obsoleteProduct-5d84a3214ccbc335b4a6f85d,,
+5d84aa294ccbc335b4a6fd46,false,true,obsoleteProduct-5d84aa294ccbc335b4a6fd46,,
+5d84b1314ccbc335b4a6ff3a,false,true,obsoleteProduct-5d84b1314ccbc335b4a6ff3a,,
+5d85e691dc8dac525746f363,false,true,obsoleteProduct-5d85e691dc8dac525746f363,,
+5d85ed99dc8dac525746f4c6,false,true,obsoleteProduct-5d85ed99dc8dac525746f4c6,,
+5d86eab9dc8dac52574720e7,false,true,obsoleteProduct-5d86eab9dc8dac52574720e7,,
+5d883531dc8dac5257475af3,false,true,obsoleteProduct-5d883531dc8dac5257475af3,,
+5d888991dc8dac5257477397,false,true,obsoleteProduct-5d888991dc8dac5257477397,,
+5d8897a1dc8dac52574778f9,false,true,obsoleteProduct-5d8897a1dc8dac52574778f9,,
+5d89db115b029f4cc2e2988c,false,true,obsoleteProduct-5d89db115b029f4cc2e2988c,,
+5d89e2195b029f4cc2e29a72,false,true,obsoleteProduct-5d89e2195b029f4cc2e29a72,,
+5d8ad1295b029f4cc2e2c385,false,true,obsoleteProduct-5d8ad1295b029f4cc2e2c385,,
+5d8ad8315b029f4cc2e2c4da,false,true,obsoleteProduct-5d8ad8315b029f4cc2e2c4da,,
+5d8ae6415b029f4cc2e2c9c8,false,true,obsoleteProduct-5d8ae6415b029f4cc2e2c9c8,,
+5d8aed495b029f4cc2e2cbfb,false,true,obsoleteProduct-5d8aed495b029f4cc2e2cbfb,,
+5d8af4515b029f4cc2e2ce2a,false,true,obsoleteProduct-5d8af4515b029f4cc2e2ce2a,,
+5d8b3aa15b029f4cc2e2e177,false,true,obsoleteProduct-5d8b3aa15b029f4cc2e2e177,,
+5d8c45d15b029f4cc2e311fb,false,true,obsoleteProduct-5d8c45d15b029f4cc2e311fb,,
+5d8dd6995b029f4cc2e3678e,false,true,obsoleteProduct-5d8dd6995b029f4cc2e3678e,,
+5d8de4a95b029f4cc2e36a14,false,true,obsoleteProduct-5d8de4a95b029f4cc2e36a14,,
+5d91a7f15b029f4cc2e41e17,false,true,obsoleteProduct-5d91a7f15b029f4cc2e41e17,,
+5d91aef95b029f4cc2e41fab,false,true,obsoleteProduct-5d91aef95b029f4cc2e41fab,,
+5d9427c90e35ff037816bda7,false,true,obsoleteProduct-5d9427c90e35ff037816bda7,,
+5d959c710e35ff037817044a,false,true,obsoleteProduct-5d959c710e35ff037817044a,,
+5d95a3790e35ff0378170579,false,true,obsoleteProduct-5d95a3790e35ff0378170579,,
+5d95aa810e35ff03781707c4,false,true,obsoleteProduct-5d95aa810e35ff03781707c4,,
+5d95c6a10e35ff0378170de2,false,true,obsoleteProduct-5d95c6a10e35ff0378170de2,,
+5d95cda90e35ff037817118b,false,true,obsoleteProduct-5d95cda90e35ff037817118b,,
+5d95d4b10e35ff03781714c3,false,true,obsoleteProduct-5d95d4b10e35ff03781714c3,,
+5d96fc010e35ff0378174f78,false,true,obsoleteProduct-5d96fc010e35ff0378174f78,,
+5d9711190e35ff03781758ba,false,true,obsoleteProduct-5d9711190e35ff03781758ba,,
+5d9823510e35ff0378178b99,false,true,obsoleteProduct-5d9823510e35ff0378178b99,,
+5d984d810e35ff0378179589,false,true,obsoleteProduct-5d984d810e35ff0378179589,,
+5d9885c10e35ff037817a225,false,true,obsoleteProduct-5d9885c10e35ff037817a225,,
+5d9a9c210e35ff037817f989,false,true,obsoleteProduct-5d9a9c210e35ff037817f989,,
+5d9aa3290e35ff037817fb96,false,true,obsoleteProduct-5d9aa3290e35ff037817fb96,,
+5d9b05990e35ff0378181481,false,true,obsoleteProduct-5d9b05990e35ff0378181481,,
+5d9bf4a90e35ff037818445c,false,true,obsoleteProduct-5d9bf4a90e35ff037818445c,,
+5d9c09c10e35ff0378184d9b,false,true,obsoleteProduct-5d9c09c10e35ff0378184d9b,,
+5d9c3af90e35ff0378185995,false,true,obsoleteProduct-5d9c3af90e35ff0378185995,,
+5d9c50110e35ff0378186253,false,true,obsoleteProduct-5d9c50110e35ff0378186253,,
+5d9da1910e35ff037818b4e6,false,true,obsoleteProduct-5d9da1910e35ff037818b4e6,,
+5d9dd2c90e35ff037818c36d,false,true,obsoleteProduct-5d9dd2c90e35ff037818c36d,,
+5d9ea5b90e35ff037818eaae,false,true,obsoleteProduct-5d9ea5b90e35ff037818eaae,,
+5d9efa1950c1a74159051511,false,true,obsoleteProduct-5d9efa1950c1a74159051511,,
+5da00c5150c1a74159054e52,false,true,obsoleteProduct-5da00c5150c1a74159054e52,,
+5da0368150c1a7415905594b,false,true,obsoleteProduct-5da0368150c1a7415905594b,,
+5da052a150c1a7415905613d,false,true,obsoleteProduct-5da052a150c1a7415905613d,,
+5da156c950c1a7415905923f,false,true,obsoleteProduct-5da156c950c1a7415905923f,,
+5da180f950c1a74159059a36,false,true,obsoleteProduct-5da180f950c1a74159059a36,,
+5da1ab2950c1a7415905a38f,false,true,obsoleteProduct-5da1ab2950c1a7415905a38f,,
+5da28c2950c1a7415905ceb3,false,true,obsoleteProduct-5da28c2950c1a7415905ceb3,,
+5da3f57750c1a7415906196b,false,true,Cũ-Lộ trình 12 tháng Kids,Kids,Other
+5da3f59150c1a7415906196c,,true,Lộ trình 12 tháng Teens,,
+5da3f5a250c1a7415906196d,false,true,Cũ-Lộ trình 24 tháng Teens,Teens,Other
+5da3f5f350c1a7415906197f,,true,Special (Teens),,
+5da3f60850c1a74159061984,false,true,Cũ-Special (Kids),Kids,
+5da54b4950c1a74159066e00,false,true,obsoleteProduct-5da54b4950c1a74159066e00,,
+5da58a9250c1a74159067fb0,false,true,obsoleteProduct-5da58a9250c1a74159067fb0,,
+5da59fa950c1a74159068760,false,true,obsoleteProduct-5da59fa950c1a74159068760,,
+5da679a150c1a7415906b284,false,true,obsoleteProduct-5da679a150c1a7415906b284,,
+5da6d50950c1a7415906dc43,false,true,obsoleteProduct-5da6d50950c1a7415906dc43,,
+5da6e23550c1a7415906e243,,true,Xcareer,,
+5da6ea2150c1a7415906e879,false,true,obsoleteProduct-5da6ea2150c1a7415906e879,,
+5da7cb2150c1a74159071af2,false,true,obsoleteProduct-5da7cb2150c1a74159071af2,,
+5da7d22950c1a74159072108,false,true,obsoleteProduct-5da7d22950c1a74159072108,,
+5da81f8150c1a74159074110,false,true,obsoleteProduct-5da81f8150c1a74159074110,,
+5da8268950c1a741590744fa,false,true,obsoleteProduct-5da8268950c1a741590744fa,,
+5da82d9150c1a74159074a78,false,true,obsoleteProduct-5da82d9150c1a74159074a78,,
+5da91ca150c1a7415907776a,false,true,obsoleteProduct-5da91ca150c1a7415907776a,,
+5daabb7970ec1e35d78e7cb3,false,true,obsoleteProduct-5daabb7970ec1e35d78e7cb3,,
+5daac28170ec1e35d78e7e36,false,true,obsoleteProduct-5daac28170ec1e35d78e7e36,,
+5daac98970ec1e35d78e800a,false,true,obsoleteProduct-5daac98970ec1e35d78e800a,,
+5daad79970ec1e35d78e82f1,false,true,obsoleteProduct-5daad79970ec1e35d78e82f1,,
+5daae5a970ec1e35d78e85e4,false,true,obsoleteProduct-5daae5a970ec1e35d78e85e4,,
+5dac302170ec1e35d78ec3f8,false,true,obsoleteProduct-5dac302170ec1e35d78ec3f8,,
+5dad98194f6dae6537e63f10,false,true,Cũ-Lộ trình 12 tháng Teens,Teens,Other
+5dae70b14f6dae6537e662cf,false,true,obsoleteProduct-5dae70b14f6dae6537e662cf,,
+5dae77b94f6dae6537e664d1,false,true,obsoleteProduct-5dae77b94f6dae6537e664d1,,
+5dae85c94f6dae6537e66d08,false,true,obsoleteProduct-5dae85c94f6dae6537e66d08,,
+5daeaff94f6dae6537e67885,false,true,obsoleteProduct-5daeaff94f6dae6537e67885,,
+5daec5114f6dae6537e680d9,false,true,obsoleteProduct-5daec5114f6dae6537e680d9,,
+5daee1314f6dae6537e68886,false,true,obsoleteProduct-5daee1314f6dae6537e68886,,
+5dafd0414f6dae6537e6b705,false,true,obsoleteProduct-5dafd0414f6dae6537e6b705,,
+5db008814f6dae6537e6c6ab,false,true,obsoleteProduct-5db008814f6dae6537e6c6ab,,
+5db00f894f6dae6537e6c9bf,false,true,obsoleteProduct-5db00f894f6dae6537e6c9bf,,
+5db016914f6dae6537e6cd41,false,true,obsoleteProduct-5db016914f6dae6537e6cd41,,
+5db01d994f6dae6537e6d103,false,true,obsoleteProduct-5db01d994f6dae6537e6d103,,
+5db024a14f6dae6537e6d36b,false,true,obsoleteProduct-5db024a14f6dae6537e6d36b,,
+5db11ab94f6dae6537e70573,false,true,obsoleteProduct-5db11ab94f6dae6537e70573,,
+5db15a014f6dae6537e7152e,false,true,obsoleteProduct-5db15a014f6dae6537e7152e,,
+5db168114f6dae6537e71caf,false,true,obsoleteProduct-5db168114f6dae6537e71caf,,
+5db16f184f6dae6537e720e7,false,true,obsoleteProduct-5db16f184f6dae6537e720e7,,
+5db265314f6dae6537e751a3,false,true,obsoleteProduct-5db265314f6dae6537e751a3,,
+5db2b2894f6dae6537e76c26,false,true,obsoleteProduct-5db2b2894f6dae6537e76c26,,
+5db3a8a14f6dae6537e79ae5,false,true,obsoleteProduct-5db3a8a14f6dae6537e79ae5,,
+5db412194f6dae6537e7b64f,false,true,obsoleteProduct-5db412194f6dae6537e7b64f,,
+5db691f14f6dae6537e824ff,false,true,obsoleteProduct-5db691f14f6dae6537e824ff,,
+5db698f94f6dae6537e82653,false,true,obsoleteProduct-5db698f94f6dae6537e82653,,
+5db6bc214f6dae6537e830e1,false,true,obsoleteProduct-5db6bc214f6dae6537e830e1,,
+5db6c3294f6dae6537e83214,false,true,obsoleteProduct-5db6c3294f6dae6537e83214,,
+5db7116a29711533422ed0dd,,,C++,,
+5db7ab314f6dae6537e85915,false,true,obsoleteProduct-5db7ab314f6dae6537e85915,,
+5db7b9414f6dae6537e863a0,false,true,obsoleteProduct-5db7b9414f6dae6537e863a0,,
+5db822b94f6dae6537e88494,false,true,obsoleteProduct-5db822b94f6dae6537e88494,,
+5db829c14f6dae6537e885e6,false,true,obsoleteProduct-5db829c14f6dae6537e885e6,,
+5db830c94f6dae6537e88740,false,true,obsoleteProduct-5db830c94f6dae6537e88740,,
+5db911c94f6dae6537e8aca6,false,true,obsoleteProduct-5db911c94f6dae6537e8aca6,,
+5db918d14f6dae6537e8ade8,false,true,obsoleteProduct-5db918d14f6dae6537e8ade8,,
+5db93bf94f6dae6537e8b582,false,true,obsoleteProduct-5db93bf94f6dae6537e8b582,,
+5dbab7a9f5faf20b9f374f48,false,true,obsoleteProduct-5dbab7a9f5faf20b9f374f48,,
+5dbabeb1f5faf20b9f3751cd,false,true,obsoleteProduct-5dbabeb1f5faf20b9f3751cd,,
+5dbb91a1f5faf20b9f3776a8,false,true,obsoleteProduct-5dbb91a1f5faf20b9f3776a8,,
+5dbc1031f5faf20b9f37a0de,false,true,obsoleteProduct-5dbc1031f5faf20b9f37a0de,,
+5dbc1739f5faf20b9f37a229,false,true,obsoleteProduct-5dbc1739f5faf20b9f37a229,,
+5dbc1e41f5faf20b9f37a38e,false,true,obsoleteProduct-5dbc1e41f5faf20b9f37a38e,,
+5dbd8be1f5faf20b9f37e3fe,false,true,obsoleteProduct-5dbd8be1f5faf20b9f37e3fe,,
+5dc0e5b1f5faf20b9f3882b4,false,true,obsoleteProduct-5dc0e5b1f5faf20b9f3882b4,,
+5dc26f71f5faf20b9f38d220,false,true,obsoleteProduct-5dc26f71f5faf20b9f38d220,,
+5dc299a1f5faf20b9f38e1d3,false,true,obsoleteProduct-5dc299a1f5faf20b9f38e1d3,,
+5dcbb801242dfe0dd31c56e8,false,true,obsoleteProduct-5dcbb801242dfe0dd31c56e8,,
+5dce53f9242dfe0dd31ced18,false,true,obsoleteProduct-5dce53f9242dfe0dd31ced18,,
+5dce6209242dfe0dd31cf198,false,true,obsoleteProduct-5dce6209242dfe0dd31cf198,,
+5dce7019242dfe0dd31cf602,false,true,obsoleteProduct-5dce7019242dfe0dd31cf602,,
+5dd26ba180a56711e6edcc7c,false,true,obsoleteProduct-5dd26ba180a56711e6edcc7c,,
+5dd3c429d896563a3be05bb1,false,true,obsoleteProduct-5dd3c429d896563a3be05bb1,,
+5dd4c149d896563a3be08ed8,false,true,obsoleteProduct-5dd4c149d896563a3be08ed8,,
+5dd7b1a1c9cd8d43b797d25e,false,true,obsoleteProduct-5dd7b1a1c9cd8d43b797d25e,,
+5ddddfaa4ebc346533c7662b,false,true,obsoleteProduct-5ddddfaa4ebc346533c7662b,,
+5dddf4c14ebc346533c76e45,false,true,obsoleteProduct-5dddf4c14ebc346533c76e45,,
+5ddf4d4a4ebc346533c7b302,false,true,obsoleteProduct-5ddf4d4a4ebc346533c7b302,,
+5ddfa67616dbf70374a88f28,,true,C4K-SB,,
+5de872b02c70cb3be77cfb89,false,true,obsoleteProduct-5de872b02c70cb3be77cfb89,,
+5de879b82c70cb3be77cfe14,false,true,obsoleteProduct-5de879b82c70cb3be77cfe14,,
+5dedff002c70cb3be77deb92,false,true,obsoleteProduct-5dedff002c70cb3be77deb92,,
+5df1c2487464fc4e384bde4a,false,true,obsoleteProduct-5df1c2487464fc4e384bde4a,,
+5df201903a30864c47eb9ed5,false,true,obsoleteProduct-5df201903a30864c47eb9ed5,,
+5df24ee83a30864c47ebaa9d,false,true,obsoleteProduct-5df24ee83a30864c47ebaa9d,,
+5df34c083a30864c47ebcbaa,false,true,obsoleteProduct-5df34c083a30864c47ebcbaa,,
+5df36120a9a74c3d616203c4,false,true,obsoleteProduct-5df36120a9a74c3d616203c4,,
+5df36f30fc405952029ccf06,false,true,obsoleteProduct-5df36f30fc405952029ccf06,,
+5df70140fc405952029d5053,false,true,obsoleteProduct-5df70140fc405952029d5053,,
+5df70f51fc405952029d51a5,false,true,obsoleteProduct-5df70f51fc405952029d51a5,,
+5df75ca8fc405952029d55cb,false,true,obsoleteProduct-5df75ca8fc405952029d55cb,,
+5df84bb83c4caa2be9e14577,false,true,obsoleteProduct-5df84bb83c4caa2be9e14577,,
+5df852c03c4caa2be9e146d3,false,true,obsoleteProduct-5df852c03c4caa2be9e146d3,,
+5df8ae283c4caa2be9e15274,false,true,obsoleteProduct-5df8ae283c4caa2be9e15274,,
+5e06fb1528ab2262d5e24e3d,false,true,Lộ trình web/app developer (2 khoá),18+,Other
+5e06fb4028ab2262d5e24e3e,true,,Lộ trình web/app developer (2 khoá),18+,Other
+5e06fb7e28ab2262d5e24e3f,false,true,Cũ-Lộ trình fresher web (3 khoá),18+,Other
+5e06fba228ab2262d5e24e40,true,,Lộ trình web/app developer (3 khoá),18+,Other
+5e06fbcd28ab2262d5e24e41,false,true,Cũ-Xcareer,18+,Other
+5e06fc3828ab2262d5e24e42,false,true,Cũ-Special (Kids),Kids,
+5e06fc7828ab2262d5e24e43,true,,Special (Kids),Kids,Other
+5e06fca628ab2262d5e24e44,true,,Lộ trình 12 tháng Kids,Kids,Other
+5e06fcce28ab2262d5e24e45,true,,Lộ trình 24 tháng Kids,Kids,Other
+5e06fce828ab2262d5e24e46,true,,Special (Teens),Teens,Other
+5e06fd0028ab2262d5e24e47,true,,Lộ trình 12 tháng Teens,Teens,Other
+5e06fd2228ab2262d5e24e48,true,,Lộ trình 24 tháng Teens,Teens,Other
+5e07012f28ab2262d5e24f93,true,,Web Creator Basic,Kids,Web
+5e0701d528ab2262d5e24f94,true,,Web Creator Advance,Kids,Web
+5e0701f528ab2262d5e24f95,true,,Web Creator Intensive,Kids,Web
+5e07022128ab2262d5e24f96,true,,Gamemaker Basic,Kids,Game
+5e0702da28ab2262d5e24f97,true,,Gamemaker Intensive,Kids,Game
+5e07030c28ab2262d5e24f98,false,true,Robotic Basic,Kids,Other
+5e07032a28ab2262d5e24f99,false,true,Robotic Advance,Kids,Other
+5e07037128ab2262d5e24f9a,false,true,App Inventor,Kids,Other
+5e0703a328ab2262d5e24f9b,true,,Code for Teen Basic,Teens,Web
+5e0703d528ab2262d5e24f9c,true,,Code for Teen Advance,Teens,Other
+5e07040828ab2262d5e24f9d,true,,Code for Everyone JS,18+,C4E
+5e07044028ab2262d5e24f9e,true,,Code for Everyone Python,18+,C4E
+5e07046028ab2262d5e24f9f,false,true,Cũ-Code Intensive (Js OOP - web),18+,Other
+5e07057d28ab2262d5e24fc2,false,true,Cũ-Code Intensive Java,18+,Other
+5e07061228ab2262d5e250eb,true,,Code Intensive Java,18+,Other
+5e07063328ab2262d5e250ec,true,,Code Intensive (JS - Web),18+,Web
+5e07065928ab2262d5e250ed,true,,"Fullstack Web (NodeJS, React)",18+,Web
+5e07067528ab2262d5e250ee,true,,Mobile App (React Native),18+,App
+5e07069a28ab2262d5e250ef,false,true,Fullstack Web (PHP),18+,Web
+5e0706ba28ab2262d5e250f0,false,true,C++,18+,Other
+5e070b0628ab2262d5e250f1,true,,Gamemaker Advance,Kids,Game
+5e070d1528ab2262d5e25114,false,true,Cũ-1-1 lộ trình 12 tháng (Kids và Teens),Teens,Other
+5e070e5728ab2262d5e2523d,false,true,1-1 lộ trình 12 tháng (Kids và Teens),Teens,Other
+5e070ea528ab2262d5e2523e,false,true,1-1 lộ trình 24 tháng (Kids và Teens),Kids,Other
+5e070ec828ab2262d5e2523f,false,true,1-1 lộ trình 4 tháng (Kids và Teens),Kids,Other
+5e09aa73d8be1c27cdfb3a73,false,true,Xcareer,18+,Other
+5e09edca597b2d7b8e68e73e,false,true,obsoleteProduct-5e09edca597b2d7b8e68e73e,,
+5e0ffcd9108c902733437c61,,true,C4K-SA,,
+5e15f8860cb41d4eb0768d8d,,,18+X,,
+5e17179b802c02329a2f17ed,,,C4K-SA,,
+5e1717d2802c02329a2f17ee,,,C4K-SI,,
+5e17183c802c02329a2f17ef,,,NextGen,,
+5e171867802c02329a2f17f0,,,Summer Ver2020,,
+5e37c84846e6363f8e56954f,true,,"C++ (1-1, 1-2)",18+,Other
+5e37c8fb46e6363f8e569550,true,,C++ Lớp Thường,18+,Other
+5e4cde7326cf1c5b031ccc2e,false,true,1-1 lộ trình 24 tháng (Kids và Teens),Kids,Other
+5e4ce04c26cf1c5b031ccc37,true,,1 - 1 lộ trình 4 tháng (Kids và Teens),Kids,Other
+5e4ce09226cf1c5b031ccc38,true,,1-1 lộ trình 12 tháng (Kids và Teens),Kids,Other
+5e4ce0c726cf1c5b031ccc53,true,,1-1 lộ trình 24 tháng (Kids và Teens),Kids,Other
+5e4e3aa8a91483501be01b05,true,,Lộ trình web/app developer (4 khoá),18+,Other
+5e4e3ae5a91483501be01b10,true,,Lộ trình Xcareer,18+,Other
+5e4e3eaaa91483501be01b7f,true,,18+ Khóa X,18+,Other
+5e538a9eae512e44d4cf8146,false,true,Women Free 1tr,18+,Other
+5e579cc35563452a1050cbfc,true,,Lộ trình web/app developer (2 khoá) C4E+CI,18+,Other
+5e58cd4b5563452a1050df41,false,true,Group 1-4 tại nhà,Kids,Other
+5e5f67b58f889f1c34058349,true,,C4K- Kodu Game,Kids,Game
+5e5f86d615dd622ee6fdf51a,false,true,Cũ- Special Kid,Kids,Other
+5e5f872f15dd622ee6fdf51b,false,true,Cũ- Special Teen,Teens,Other
+5e607ec9781a3b390c03653a,false,true,Special Teen Cũ 15tr,Teens,
+5e61d4a6af3ee57adfab613b,false,true,combo 2 2 khóa bất kì cũ,Teens,
+5e621328b586523c356fb515,false,true,C4T-C8 cũ,Teens,Other
+5e6907c9bf490e2a9f08c21a,false,true,ONLINE-C4T-C1,Teens,Web
+5e6908d5bf490e2a9f08c21b,false,true,ONLINE-C4K-C1,Kids,Other
+5e69094cbf490e2a9f08c21c,true,false,ONLINE-C4K-C2,Kids,Other
+5e69097ebf490e2a9f08c21d,true,,ONLINE-C4K-C3,Kids,Other
+5e6909adbf490e2a9f08c21e,true,,ONLINE-C4K-C4,Kids,Other
+5e699d95bf490e2a9f08c369,false,true,Cũ-1-1 lộ trình 04 tháng (Kids và Teens) 20buoi,Teens,Other
+5e70a500c5b67a7092b6302a,true,,18+D4E - Khoá học data,18+,Data
+5e71ec69c5b67a7092b64580,true,,ONLINE-C4T-C1-5TR5,Teens,Web
+5e799800f98d245a499dc924,true,,Teenager Project Manager Internship 2020,Teens,Other
+5e7c2c708e2c983c5d59c655,true,,ONLINE-C4KT-1-1,Teens,Other
+5e7d8563be1b720e394ea7e2,false,true,Women Free 1tr,Kids,Other
+5e7d858ebe1b720e394ea7e3,false,false,Women Free 1tr,Teens,
+5e8344348d4ec26f4499abbe,true,,ONLINE-C4K-12T,Kids,Other
+5e84730ab0439c75ec38a99c,true,,ONLINE-C4K-C1-5TR5,Kids,Game
+5e89b5fd7221167d4a3e64a3,true,,ONLINE-C4K-STARTER,Kids,Game
+5e89b6577221167d4a3e64a4,true,,ONLINE-C4K-FLYER,Kids,Game
+5e89b6af7221167d4a3e64a5,true,,ONLINE-C4T-STARTER,Teens,Web
+5e89b6e97221167d4a3e64af,true,,ONLINE-C4T-FLYER,Teens,Web
+5e89b7327221167d4a3e64b7,false,true,ONLINE-C4K-MOVER,Teens,Web
+5e89b7747221167d4a3e64c0,false,true,ONLINE-C4K-PROFESSIONAL,Teens,Web
+5e89b8d47221167d4a3e64dd,true,,ONLINE-C4T-MOVER,Teens,Web
+5e89b9207221167d4a3e64f7,true,,ONLINE-C4K-PROFESSIONAL,Kids,Game
+5e89b9457221167d4a3e6501,true,,ONLINE-C4K-MOVER,Kids,Game
+5e9800678d5abd54fdf940bb,true,,ONLINE-C4EJS-18+,18+,C4E
+5ea656f9fdfe6f18dcef7084,true,,ONLINE-C4T-C1-4080,Teens,Web
+5ea7facb6cd2150f65a8a7dd,true,,Combo 5 khóa Xs,18+,Other
+5ea95bb5186542400ec328ef,true,,Combo 2 khóa (1-1),18+,Other
+5ebb558084d10c14926267bb,true,false,Code for Kids Scratch Basic,Kids,Other
+5ebcc767313bda013a82717c,true,false,1-1 lộ trình Combo3 18+,18+,C4E
+5ec358bc26d29f0634f4a734,true,false,18+IOS 1GV-1HS,18+,App
+5ed47c57fbca1c102552c8c9,true,false,combo 2 khóa CI+RN 1GV-2HS,18+,Web
+5ee98ac1fa414c33be61442f,false,false,Luyện Thi,Kids,Other
+5eec37d958c3db512fd8c54b,true,false,Trại hè 2020,Kids,Other
+5efae9a3246ed24227548bc2,true,false,Luyện thi tin học trẻ,Kids,Other
