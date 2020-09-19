@@ -8,72 +8,80 @@ mongo_collection = mongo_database.get_collection('cakes')
 client = pymysql.connect(
     host = 'localhost',
     user = 'root',
-    password = '',
+    password = '123456',
     cursorclass = pymysql.cursors.DictCursor
 )
 
 database = client.cursor()
 
-# database.execute("CREATE DATABASE cakes")
+database.execute("CREATE DATABASE cakes")
 
-# database.execute('''
-#     CREATE TABLE cakes.cakes(
-#         _id VARCHAR(255),
-#         type VARCHAR(255),
-#         name VARCHAR(255),
-#         ppu DECIMAL(10,2),
-#         PRIMARY KEY(_id)
-#     )
-# ''')
+database.execute('''
+    CREATE TABLE cakes.cakes(
+        id VARCHAR(255),
+        type VARCHAR(255),
+        name VARCHAR(255),
+        ppu DECIMAL(10,2),
+        PRIMARY KEY (id)
+    )
+''')
 
-# database.execute('''
-#     CREATE TABLE cakes.batters(
-#         id INT,
-#         type VARCHAR(255),
-#         PRIMARY KEY(id)
-#     )
-# ''')
+database.execute('''
+    CREATE TABLE cakes.batters(
+        id INT,
+        type VARCHAR(255),
+        PRIMARY KEY(id)
+    )
+''')
 
-# database.execute('''
-#     CREATE TABLE `cakes`.topping(
-#         id INT,
-#         type VARCHAR(255),
-#         PRIMARY KEY (id)
-#     )
-# ''')
+database.execute('''
+    CREATE TABLE `cakes`.topping(
+        id INT,
+        type VARCHAR(255),
+        PRIMARY KEY (id)
+    )
+''')
 
-# database.execute('''
-#     CREATE TABLE `cakes`.filling(
-#         id INT,
-#         type VARCHAR(255),
-#         PRIMARY KEY (id)
-#     )
-# ''')
+database.execute('''
+    CREATE TABLE `cakes`.filling(
+        id INT,
+        type VARCHAR(255),
+        PRIMARY KEY (id)
+    )
+''')
 
-# database.execute('''
-#     CREATE TABLE `cakes`.cake_batter(
-#         cake_id VARCHAR(255),
-#         batter_id INT,
-#         PRIMARY KEY (cake_id, batter_id)
-#     )
-# ''')
+database.execute('''
+    CREATE TABLE `cakes`.cake_batter(
+        cake_id VARCHAR(255),
+        batter_id INT,
+        PRIMARY KEY (cake_id, batter_id)
+    )
+''')
 
-# database.execute('''
-#     CREATE TABLE `cakes`.cake_topping(
-#         cake_id VARCHAR(255),
-#         topping_id INT,
-#         PRIMARY KEY (cake_id, topping_id)
-#     )
-# ''')
+database.execute('''
+    CREATE TABLE `cakes`.cake_topping(
+        cake_id VARCHAR(255),
+        topping_id INT,
+        PRIMARY KEY (cake_id, topping_id)
+    )
+''')
 
-# database.execute('''
-#     CREATE TABLE cakes.fillings(
-#         id INT,
-#         name VARCHAR(255),
-#         addcost DECIMAL(10,2),
-#         PRIMARY KEY (id, addcost)
-#     )
-# ''')
+database.execute('''
+    CREATE TABLE cakes.fillings(
+        id INT,
+        name VARCHAR(255),
+        addcost DECIMAL(10,2),
+        PRIMARY KEY (id, addcost)
+    )
+''')
+
+database.execute('''
+    CREATE TABLE `cakes`.cake_fillings(
+        cake_id VARCHAR(255),
+        filling_id INT,
+        PRIMARY KEY (cake_id, filling_id)
+    )
+''')
 
 # Cakes table
 query = {
@@ -84,7 +92,7 @@ query = {
 cakes = mongo_collection.find(query)
 for cake in cakes:
     database.execute(f'''
-        INSERT INTO `cakes`.cakes(`_id`, `type`, `name`, `ppu`)
+        INSERT INTO `cakes`.cakes(`id`, `type`, `name`, `ppu`)
         VALUES("{cake['_id']}", "{cake['type']}", "{cake['name']}", {cake['ppu']})
     ''')
 
@@ -148,7 +156,7 @@ query = [{'$unwind': '$fillings.filling'}]
 cake_filling_database = mongo_collection.aggregate(query)
 for cake_filling in cake_filling_database:
     database.execute(f'''
-        INSERT INTO `cakes`.cake_filling(`cake_id`, `filling_id`)
+        INSERT INTO `cakes`.cake_fillings(`cake_id`, `filling_id`)
         VALUES("{cake_filling['_id']}", {cake_filling['fillings']['filling']['id']})
     ''') 
 
